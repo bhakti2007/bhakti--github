@@ -1,0 +1,3 @@
+In this session we learn how use github git and difference between git and gihub how to share code  and also about repository what is it.Readme file is a text document which provides overview of project on github. It is markdown with extension(.md)
+named as (READ.md) it is important documentation for a project.It is atuomatically shown in repository also.It is use for collaboration and version control in project.
+and it also include working with branch, commits, pull request. and every team member has to work on their own branch.
